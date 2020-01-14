@@ -7,5 +7,5 @@ function randomInts(n){
     console.log(arr[n-1]);
 }
 
-//Replace integer with the nth smallest position of the value you want printed
+//Replacee integer with the nth smallest position of the value you want printed
 randomInts(14);
